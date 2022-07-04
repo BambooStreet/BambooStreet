@@ -10,6 +10,8 @@
 
 매순간을 소중히 여기며 살아가려 노력 중인 20대입니다!😁
 
+<br/>
+ 
 Hello! My name is SeokJoo Hong.
 
 I am currently studying DataScience at Sejong University.
