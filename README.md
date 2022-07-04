@@ -18,7 +18,8 @@ I am currently studying DataScience at Sejong University.
 
 I'm in my 20s trying to live my life cherishing every moment!😁
 
-
+<br/> 
+ 
 😎**SNS**
 
 <a href="https://www.instagram.com/ohmyhong_1/" target="_blank"><img src="https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white"/></a>
