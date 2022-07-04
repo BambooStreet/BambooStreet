@@ -4,16 +4,17 @@
 
 <br/><br/><br/> 
 
+반갑습니다!
 
-<div align="center">
+현재 세종대학교 데이터사이언스학과 재학중입니다.
 
-안녕하세요 홍석주입니다.
+매순간을 소중히 여기며 살아가려 노력 중인 20대입니다!😁
 
-세종대학교 데이터사이언스학과 재학중입니다.
+Hello! My name is SeokJoo Hong.
 
-나날이 발전하기 위해 노력하고 있습니다.
+I am currently studying DataScience at Sejong University.
 
-
+I'm in my 20s trying to live my life cherishing every moment!😁
 
 
 😎**SNS**
