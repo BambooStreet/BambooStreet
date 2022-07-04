@@ -1,3 +1,5 @@
+<div align="center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=400&section=header&text=Welcome!&fontSize=90&desc=BambooStreet's%20Github%20Profile&descAlign=60&descAlignY=65&descSize=27&theme=tokyonight&animation=scaleIn)
 
 <br/><br/><br/> 
