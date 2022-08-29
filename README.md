@@ -35,9 +35,15 @@ ohmyhong1234@gmail.com
 
 ⛏**Studying**
  
+⚒**Programming**
 <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=black"/><a> 
 <img src="https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=C&logoColor=black"/><a>
 <img src="https://img.shields.io/badge/R-9cf?style=for-the-badge&logo=R&logoColor=black"/><a>
+
+🔧**Tools**
+<img src="https://img.shields.io/badge/#EE4C2C?style=for-the-badge&logo=R&logoColor=black"/><a>
+
+
 
 
 
