@@ -44,7 +44,8 @@ ohmyhong1234@gmail.com
 🔧**Tools**
 
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=black"/><a>
-
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black"/><a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=black"/><a>
 
 
 
