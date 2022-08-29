@@ -43,7 +43,7 @@ ohmyhong1234@gmail.com
 
 🔧**Tools**
 
-<img src="https://img.shields.io/badge/#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"/><a>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=black"/><a>
 
 
 
