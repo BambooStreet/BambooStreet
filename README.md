@@ -33,7 +33,7 @@ ohmyhong1234@gmail.com
 
 <br/> 
 
-⛏**Studying**
+↓↓**Studying**↓↓
  
 ⚒**Programming**
  
