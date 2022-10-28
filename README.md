@@ -23,7 +23,6 @@ I'm in my 20s trying to live my life cherishing every moment!😁
 😎**SNS**
 
 <a href="https://www.instagram.com/ohmyhong_1/" target="_blank"><img src="https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://https://blog.naver.com/ohmyhong1/" target="_blank"><img src="https://img.shields.io/badge/naverblog-green?style=flat-square&logo=naver&logoColor=white"/></a>
 
 <br/> 
 
